@@ -1,18 +1,119 @@
-# 💫 About Me:
-I am Currently working on Machine Learning Centre Of Excellence & Google Devloper Group <br>I want to Become ML Engineer and Working For it <br>Currently Looking For Internship And Opportunity
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:312E81&height=210&section=header&text=VARUN%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=61&descSize=17&animation=fadeIn)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_varunn_sharma_?vrfl=MTJtcWVlMWt0cGVobA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varun-kumar-218512369?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarvarun210707@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=ML+Engineer+in+the+making;Python+%7C+Machine+Learning+%7C+DSA;Strengthening+Deep+Learning;Building+and+Deploying+ML+Models)](https://github.com/Varunn-21)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Varunn-21&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Varunn-21&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varunn-21&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-218512369)
+[![GitHub](https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varunn-21)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Varunn-21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+- 🎓 B.Tech student at **Ajay Kumar Garg Engineering College (AKGEC)**
+- 🤖 Member of the **Machine Learning Centre of Excellence** and the **Google Developer Group**
+- 🎯 Goal: become an **ML Engineer**, working towards it every day
+- 🧠 Done with Python, NumPy, Pandas, Matplotlib, Seaborn and core ML algorithms; now **strengthening Deep Learning**
+- 🚀 Learning to take models from notebook to **deployed apps**
+- 📫 **Open to ML / AI internships and opportunities**
+
+---
+
+# 🛠️ Tech Stack
+
+**🐍 Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**🧠 Machine Learning & Deep Learning**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-6D28D9?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-4B5563?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**📊 Data Analysis & Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**🚀 Deployment & Tools**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat-square&logo=gunicorn&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+**🎨 Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+# 🎯 Current Focus
+
+![Deep Learning](https://img.shields.io/badge/DEEP_LEARNING-6D28D9?style=flat-square)
+![ML Projects](https://img.shields.io/badge/END--TO--END_ML_PROJECTS-2563EB?style=flat-square)
+![Model Deployment](https://img.shields.io/badge/MODEL_DEPLOYMENT-009688?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-4B5563?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-EA580C?style=flat-square)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [❤️ Cardiovascular Disease Risk Predictor](https://github.com/Varunn-21/Cardiovascular-Disease-Risk-Predictor) | Predicts a person's risk of cardiovascular disease from health data | Python, Scikit-Learn, Jupyter |
+| [🛒 Smart Cart Customer Clustering](https://github.com/Varunn-21/Smart-Cart-Customer-Clustering-) | Segments customers into groups with clustering to find buying patterns | Python, Pandas, Scikit-Learn |
+| [📰 News Classification](https://github.com/Varunn-21/News-Classification) | Classifies news articles into categories using NLP | Python, NLP, Jupyter |
+| [🚗 US Accident Severity Prediction](https://github.com/Varunn-21/US-Accident-severity-prediction) | Predicts how severe a road accident is from conditions and location data | Python, ML, Jupyter |
+| [💬 DoubtHub ML API](https://github.com/Varunn-21/DoubtHub_ML_api) | ML API backing the DoubtHub doubt-solving platform | Python, ML, Jupyter |
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Varunn-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Streak](https://streak-stats.demolab.com?user=Varunn-21&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunn-21&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-kumar-218512369)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varunn-21)
+
+### ⚡ Learning ML. Building Models. Shipping Projects.
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:1E293B,100:0F172A&height=120&section=footer)
+
+</div>
