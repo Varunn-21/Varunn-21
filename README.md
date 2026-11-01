@@ -15,7 +15,7 @@
 # 👨‍💻 About Me
 
 - 🎓 B.Tech student at **Ajay Kumar Garg Engineering College (AKGEC)**
-- 🤖 Member of the **Machine Learning Centre of Excellence** and the **Google Developer Group**
+- 🤖 Member of the **Machine Learning Centre of Excellence** at **AKGEC**
 - 🎯 Goal: become an **ML Engineer**, working towards it every day
 - 🧠 Done with Python, NumPy, Pandas, Matplotlib, Seaborn and core ML algorithms; now **strengthening Deep Learning**
 - 🚀 Learning to take models from notebook to **deployed apps**
