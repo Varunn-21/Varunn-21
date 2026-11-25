@@ -104,6 +104,14 @@
 
 ---
 
+# 🧩 LeetCode Stats
+ 
+<div align="center">
+[![LeetCode Stats](https://leetcard.jacoblin.cool/_varunkumar_?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/_varunkumar_/)
+ 
+</div>
+---
+
 # 🤝 Let's Connect
 
 <div align="center">
