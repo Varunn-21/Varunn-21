@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:312E81&height=210&section=header&text=VARUN%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=61&descSize=17&animation=fadeIn)
+(https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:312E81&height=210&section=header&text=VARUN%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20ML%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=61&descSize=17&animation=fadeIn)
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=ML+Engineer+in+the+making;Python+%7C+Machine+Learning+%7C+DSA;Strengthening+Deep+Learning;Building+and+Deploying+ML+Models)](https://github.com/Varunn-21)
  
